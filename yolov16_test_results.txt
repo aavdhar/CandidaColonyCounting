@@ -1,0 +1,1 @@
+loss: 2.0905 - MaP: 0.5770 - MaP@[IoU=50]: 0.9216 - MaP@[IoU=75]: 0.6637 - MaP@[area=small]: 0.4355 - MaP@[area=medium]: 0.6530 - MaP@[area=large]: 0.0000e+00 - Recall@[max_detections=1]: 0.4540 - Recall@[max_detections=10]: 0.6566 - Recall@[max_detections=100]: 0.6566 - Recall@[area=small]: 0.5236 - Recall@[area=medium]: 0.7315 - Recall@[area=large]: 0.0000e+00
